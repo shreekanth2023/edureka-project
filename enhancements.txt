@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Added download functionality in master branch
 Added downloaded functionality in feature branch
-Changes
+Changes made on Visual Studio
 >>>>>>> feature
 
 
